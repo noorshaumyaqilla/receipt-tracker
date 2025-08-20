@@ -58,7 +58,7 @@ receipt-tracker/
    ```bash
    git clone https://github.com/YOUR-USERNAME/receipt-tracker.git
    cd receipt-tracker/frontend
-````
+   ````
 
 2. Install dependencies:
 
@@ -96,15 +96,3 @@ Please fork the repo and open a pull request with your changes.
 Developed by **Aqilla** ✨
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-👉 Replace `YOUR-USERNAME` with your GitHub username in the **clone URL**.  
-Would you like me to also make a **short version** (like a 5–6 line README just for the UI part), so you can use that temporarily while the project is still in Phase 1?
-```
