@@ -1,6 +1,3 @@
----
-
-```markdown
 # 📊 Receipt Tracker – Personal CPI Index
 
 Track your personal spending and inflation by uploading receipts, extracting data via OCR, and analyzing changes against your own Consumer Price Index (CPI).
